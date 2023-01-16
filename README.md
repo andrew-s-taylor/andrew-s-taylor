@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://vistr.dev/badge?repo=andrew-s-taylor.public)
 <!--
 **andrew-s-taylor/andrew-s-taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
