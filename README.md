@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=andrew-s-taylor&style=flat-square&color=blue" alt=""/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrew-s-taylor&theme=dark)](https://git.io/streak-stats)
 
